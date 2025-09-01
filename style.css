@@ -133,3 +133,26 @@ footer {
     font-size: 32px;
   }
 }
+
+/* Center the entire content in the CTA section */
+.cta {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+/* Style the button if needed */
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 24px;
+  background-color: #00d1ff;
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 30px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #00b0d4;
+}
