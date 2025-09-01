@@ -1,0 +1,2 @@
+I build a modern landing page for TechVayuna, a student tech club website designed to showcase information and attract new members. The site includes a fixed header with smooth navigation, a hero section with a call-to-action, an about section introducing the club, an events section highlighting upcoming activities, and a join section linking to a Google Form. It features a clean responsive design with CSS styling, smooth scrolling using JavaScript, and a professional layout suitable for both desktop and mobile.
+
