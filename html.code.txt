@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TechVayuna | Landing Page</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <h1>TechVayuna</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#events">Events</a></li>
+        <li><a href="#join">Join Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h2>Ignite Ideas, Shape the Future 🚀</h2>
+    <p>
+      Welcome to TechVayuna – where innovation meets collaboration. Join us in
+      building the next generation of tech leaders.
+    </p>
+    <a href="#join" class="btn">Join Us</a>
+  </section>
+
+  <!-- About Section -->
+  <section id="about" class="about">
+    <h3>About Us</h3>
+    <p>
+      TechVayuna is a community of passionate students exploring technology,
+      innovation, and teamwork. Our goal is to foster creativity and build
+      impactful projects together.
+    </p>
+  </section>
+
+  <!-- Events Section -->
+  <section id="events" class="events">
+    <h3>Upcoming Event</h3>
+    <p>
+      🚀 Hack the Future 2025 – A 24-hour coding hackathon where students
+      collaborate, innovate, and compete to create amazing projects.
+    </p>
+  </section>
+
+  <!-- Call to Action -->
+  <section id="join" class="cta">
+    <h3>Be Part of TechVayuna!</h3>
+    <p>
+      Ready to learn, build, and grow with us? Join TechVayuna and unlock your
+      potential.
+    </p>
+    <a href="https://docs.google.com/forms/d/1JDwZafks8enZxK7EX0j8krsLgtlvOQ-ZhyXdF6hR4no/edit?usp=drivesdk" target="_blank" class="btn">Join Now</a>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 TechVayuna Club | Built with ❤ by Web Team</p>
+  </footer>
+
+  <!-- JavaScript -->
+  <script src="script.js"></script>
+</body>
+</html>
